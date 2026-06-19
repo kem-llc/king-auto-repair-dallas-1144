@@ -2,38 +2,38 @@
   "business": {
     "name": "King Auto Repair",
     "shortName": "King Auto",
-    "tagline": "Your Trusted Dallas Auto Mechanic Since 2010",
+    "tagline": "Your Trusted Dallas Auto Mechanic for Over a Decade",
     "niche": "Auto Mechanic",
     "phone": "(214) 660-1144",
-    "address": "3210 N Buckner Blvd, Dallas, TX 75228",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:30 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule an Appointment",
+    "hours": "Mon-Fri: 7:00 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "King Auto Repair | Expert Auto Mechanic in Dallas, TX | (214) 660-1144",
-    "description": "King Auto Repair offers professional auto repair and maintenance in Dallas, TX. From brake service to engine diagnostics, our ASE-certified mechanics keep your car running smoothly. Call (214) 660-1144 today."
+    "description": "King Auto Repair in Dallas, TX offers expert auto mechanic services including brake repair, engine diagnostics, oil changes, and more. Call (214) 660-1144 for reliable, honest service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair Experts",
-      "headline": "Keep Your Car Running Like New with King Auto Repair",
-      "subheadline": "From routine oil changes to complex engine repairs, our experienced mechanics deliver quality service at fair prices. We treat every car like it's our own.",
-      "primaryCta": "Schedule an Appointment",
-      "secondaryCta": "Call (214) 660-1144"
+      "eyebrow": "Dallas's Premier Auto Repair",
+      "headline": "Expert Auto Mechanic Services You Can Trust",
+      "subheadline": "From routine maintenance to complex repairs, our certified technicians deliver quality workmanship and transparent pricing. Your car is in safe hands.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call Now"
     },
     "stats": [
       {
-        "value": "14+",
-        "label": "Years Serving Dallas"
+        "value": "15+",
+        "label": "Years of Experience"
       },
       {
         "value": "5,000+",
-        "label": "Cars Repaired"
+        "label": "Vehicles Serviced"
       },
       {
-        "value": "4.1",
+        "value": "4.9",
         "label": "Customer Rating"
       },
       {
@@ -43,185 +43,190 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality You Can Rely On",
-        "title": "Expert Diagnostics & Repairs",
-        "body": "Our ASE-certified technicians use the latest diagnostic equipment to pinpoint issues quickly and accurately. Whether it's a check engine light or a strange noise, we'll find the problem and fix it right the first time.",
+        "eyebrow": "Comprehensive Care",
+        "title": "Full-Service Auto Repair & Maintenance",
+        "body": "At King Auto Repair, we handle everything from oil changes to engine overhauls. Our state-of-the-art diagnostic equipment and ASE-certified mechanics ensure your vehicle runs smoothly and safely.",
         "bullets": [
-          "Advanced diagnostic tools for accurate results",
-          "Transparent pricing with no hidden fees",
-          "Warranty on parts and labor for peace of mind"
+          "Brake repair and replacement",
+          "Engine diagnostics and repair",
+          "Transmission services",
+          "AC and heating system repair"
         ],
         "reverse": false,
-        "cardLabel": "Service Highlight",
-        "cardTitle": "Check Engine Light?",
-        "cardBody": "We'll diagnose the code and explain what's needed in plain English. No upselling, just honest advice."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Honest, Upfront Pricing",
+        "cardBody": "We provide detailed estimates before any work begins, so you know exactly what to expect. No hidden fees, no surprises."
       },
       {
-        "eyebrow": "Convenience Matters",
-        "title": "Hassle-Free Maintenance",
-        "body": "Regular maintenance extends your car's life and prevents costly breakdowns. We make it easy with flexible scheduling, shuttle service, and detailed reports so you know exactly what your car needs.",
+        "eyebrow": "Quality Parts",
+        "title": "Only the Best Parts & Fluids",
+        "body": "We use OEM and high-quality aftermarket parts to ensure longevity and performance. Our partnership with leading suppliers means we get the best components at competitive prices.",
         "bullets": [
-          "Oil changes, tire rotations, and fluid checks",
-          "Brake inspections and replacements",
-          "Pre-trip safety checks and seasonal tune-ups"
+          "OEM and premium aftermarket parts",
+          "Synthetic and conventional oil options",
+          "Tire brands from top manufacturers",
+          "Batteries with full warranty"
         ],
         "reverse": true,
-        "cardLabel": "Customer Perk",
-        "cardTitle": "Free Shuttle Service",
-        "cardBody": "Drop off your car, and we'll get you where you need to go. No waiting around."
+        "cardLabel": "Warranty",
+        "cardTitle": "Parts & Labor Warranty",
+        "cardBody": "All repairs come with a 12-month/12,000-mile warranty for your peace of mind."
       }
     ],
     "whyTitle": "Why Dallas Drivers Choose King Auto Repair",
     "whyChooseUs": [
       {
-        "title": "ASE-Certified Technicians",
-        "description": "Our team holds top industry certifications and undergoes continuous training to stay current with the latest automotive technology."
+        "title": "Certified Technicians",
+        "description": "Our mechanics are ASE-certified and continuously trained on the latest automotive technology."
       },
       {
-        "title": "Honest, Upfront Pricing",
-        "description": "We provide detailed estimates before any work begins. No surprises, no hidden charges—just fair pricing you can trust."
+        "title": "Fast Turnaround",
+        "description": "Most services completed same-day. We respect your time and get you back on the road quickly."
       },
       {
-        "title": "Fast Turnaround Times",
-        "description": "We know you rely on your car. Our efficient workflow means most repairs are completed same-day or within 24 hours."
+        "title": "Transparent Communication",
+        "description": "We explain every repair in plain English and provide photos or videos if needed."
       },
       {
         "title": "Customer Satisfaction Guarantee",
-        "description": "If you're not happy with our service, we'll make it right. Your peace of mind is our priority."
+        "description": "If you're not happy, we'll make it right. Your trust is our top priority."
       }
     ],
     "testimonials": [
       {
-        "quote": "I've been bringing my car to King Auto for years. They always explain what's needed and never try to upsell me. Fair prices and great work!",
+        "quote": "King Auto Repair saved me hundreds compared to the dealership. They diagnosed my check engine light quickly and fixed it the same day. Highly recommend!",
         "author": "Mike R.",
-        "role": "Lake Highlands resident"
+        "role": "Dallas driver"
       },
       {
-        "quote": "Had a sudden breakdown on the highway. King Auto got me in same day and had my car back on the road by evening. Lifesavers!",
-        "author": "Jessica T.",
-        "role": "White Rock area commuter"
+        "quote": "I've been bringing my family's cars here for years. They're honest, fair, and always do great work. Never had a problem.",
+        "author": "Linda S.",
+        "role": "Lakewood resident"
       },
       {
-        "quote": "Professional, honest, and thorough. They caught an issue that another shop missed. I trust them completely with my family's cars.",
-        "author": "David L.",
-        "role": "Pleasant Grove homeowner"
+        "quote": "Needed an emergency brake repair on a Saturday. They squeezed me in and had me done in two hours. Amazing service!",
+        "author": "Tom K.",
+        "role": "Uptown commuter"
       }
     ],
     "cta": {
       "headline": "Ready to Experience the King Auto Difference?",
-      "subheadline": "Schedule your appointment today and see why Dallas drivers trust us with their vehicles.",
+      "subheadline": "Schedule your appointment today and see why we're Dallas's trusted auto repair shop.",
       "primaryCta": "Book Now",
       "secondaryCta": "Call (214) 660-1144"
     }
   },
   "servicesPage": {
-    "intro": "At King Auto Repair, we provide comprehensive auto repair and maintenance services for all makes and models. From routine oil changes to major engine repairs, our skilled technicians use quality parts and advanced equipment to keep your vehicle running safely and efficiently."
+    "intro": "At King Auto Repair, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. Our certified technicians use advanced diagnostics and quality parts to ensure reliable, long-lasting results."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and reliable repairs for check engine lights, performance issues, and more.",
-      "longDescription": "Our advanced diagnostic tools quickly identify the root cause of engine problems. Whether it's a sensor failure, ignition issue, or internal engine damage, we provide thorough repairs using OEM-quality parts. We explain the issue in plain terms so you can make informed decisions.",
+      "title": "Brake Repair & Service",
+      "shortDescription": "Expert brake inspections, pad replacement, rotor resurfacing, and more to ensure your safety on the road.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. At King Auto Repair, we perform thorough brake inspections and use premium parts for replacements and repairs. Whether you need new pads, rotors, calipers, or brake fluid flush, our technicians ensure your brakes perform flawlessly.",
       "benefits": [
-        "Pinpoint accuracy with dealer-level diagnostic equipment",
-        "Repairs that restore performance and fuel efficiency",
-        "Warranty on all parts and labor"
+        "Enhanced stopping power and safety",
+        "Reduced noise and vibration",
+        "Extended brake system lifespan",
+        "Peace of mind with a 12-month warranty"
       ],
       "process": [
         {
-          "title": "Step 1: Comprehensive Scan",
-          "description": "We connect your vehicle to our diagnostic system to read error codes and live data."
+          "title": "Inspection",
+          "description": "We check brake pads, rotors, calipers, lines, and fluid levels using specialized tools."
         },
         {
-          "title": "Step 2: Detailed Explanation",
-          "description": "Our mechanic reviews the findings with you, explaining what's needed and why."
+          "title": "Recommendation",
+          "description": "We provide a detailed report with options and pricing so you can make an informed decision."
         },
         {
-          "title": "Step 3: Quality Repair",
-          "description": "Once approved, we perform the repair with precision, then test-drive to confirm everything is perfect."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How much does an engine diagnostic cost?",
-          "answer": "Our diagnostic fee is $89, which is credited toward any repair you choose. This covers a full system scan and visual inspection."
-        },
-        {
-          "question": "How long does an engine repair take?",
-          "answer": "It depends on the issue. Simple sensor replacements can be done in a few hours, while major repairs may take a day or two. We'll give you a timeline upfront."
-        }
-      ],
-      "slug": "engine-diagnostics-repair"
-    },
-    {
-      "icon": "02",
-      "title": "Brake Service & Repair",
-      "shortDescription": "Keep your brakes responsive and safe with our expert inspections and replacements.",
-      "longDescription": "Your brakes are your car's most important safety feature. We inspect pads, rotors, calipers, and fluid levels to ensure optimal stopping power. Whether you need a pad replacement or a full brake system overhaul, we use premium components to deliver reliable performance.",
-      "benefits": [
-        "Enhanced safety with thorough brake inspections",
-        "Quiet, smooth braking with quality parts",
-        "Extended brake life with proper maintenance"
-      ],
-      "process": [
-        {
-          "title": "Step 1: Visual & Road Test",
-          "description": "We check brake pad thickness, rotor condition, and test brake feel on the road."
-        },
-        {
-          "title": "Step 2: Detailed Estimate",
-          "description": "We provide a clear breakdown of recommended services and costs before any work begins."
-        },
-        {
-          "title": "Step 3: Precision Installation",
-          "description": "Our technicians replace worn components and adjust the system for optimal performance."
+          "title": "Repair & Test",
+          "description": "We install quality parts and test the brakes on the road to ensure optimal performance."
         }
       ],
       "faqs": [
         {
           "question": "How often should I replace my brake pads?",
-          "answer": "Most brake pads last between 30,000 and 60,000 miles, but it depends on driving habits. We recommend an inspection every 10,000 miles."
+          "answer": "Typically every 30,000 to 70,000 miles depending on driving habits and vehicle type. We recommend an inspection at every oil change."
         },
         {
-          "question": "What are signs of brake trouble?",
-          "answer": "Squealing, grinding, a soft brake pedal, or vibration when braking are all signs you need service. Don't wait—bring your car in for a check."
+          "question": "What are signs my brakes need service?",
+          "answer": "Squealing or grinding noises, a pulsating brake pedal, longer stopping distances, or a warning light on your dashboard."
         }
       ],
-      "slug": "brake-service-repair"
+      "slug": "brake-repair-service"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights, performance issues, and more.",
+      "longDescription": "Modern vehicles rely on complex computer systems. Our advanced diagnostic equipment pinpoints issues quickly and accurately. From minor sensor replacements to major engine repairs, we have the expertise to restore your engine's performance and efficiency.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Improved fuel economy and performance",
+        "Reduced emissions",
+        "Extended engine life"
+      ],
+      "process": [
+        {
+          "title": "Scan & Analyze",
+          "description": "We connect our diagnostic scanner to read error codes and live data from your engine's computer."
+        },
+        {
+          "title": "Inspect & Verify",
+          "description": "We perform visual inspections and tests to confirm the root cause of the issue."
+        },
+        {
+          "title": "Repair & Clear Codes",
+          "description": "We make the necessary repairs, clear the codes, and test drive to confirm the fix."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my check engine light on?",
+          "answer": "It could be something simple like a loose gas cap or more serious like an oxygen sensor or catalytic converter issue. We'll diagnose it accurately."
+        },
+        {
+          "question": "Can you fix engine misfires?",
+          "answer": "Yes, we can diagnose and repair misfires caused by spark plugs, ignition coils, fuel injectors, or compression issues."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
     },
     {
       "icon": "03",
       "title": "Oil Change & Routine Maintenance",
       "shortDescription": "Keep your engine healthy with regular oil changes and preventive maintenance services.",
-      "longDescription": "Regular oil changes are the simplest way to extend your engine's life. We use high-quality synthetic and conventional oils to match your manufacturer's specifications. Our maintenance packages also include fluid checks, filter replacements, and multi-point inspections to catch small issues before they become big problems.",
+      "longDescription": "Regular oil changes are the best way to extend your engine's life. King Auto Repair offers synthetic and conventional oil changes, plus comprehensive maintenance checks including fluid levels, belts, hoses, and filters. We follow manufacturer recommendations to keep your warranty intact.",
       "benefits": [
-        "Improved engine performance and fuel economy",
-        "Reduced risk of costly engine damage",
-        "Comprehensive inspection included with every oil change"
+        "Optimal engine lubrication and protection",
+        "Better fuel efficiency",
+        "Prevents costly engine damage",
+        "Complimentary multi-point inspection with every oil change"
       ],
       "process": [
         {
-          "title": "Step 1: Drain & Replace Oil",
-          "description": "We drain old oil and replace it with the correct grade and quantity for your vehicle."
+          "title": "Drain & Replace",
+          "description": "We drain old oil, replace the oil filter, and refill with the correct grade and quantity of oil."
         },
         {
-          "title": "Step 2: Replace Filter",
-          "description": "A new oil filter ensures contaminants are trapped and oil flows freely."
+          "title": "Inspection",
+          "description": "We check other fluids, belts, hoses, tires, and lights as part of our courtesy inspection."
         },
         {
-          "title": "Step 3: Multi-Point Inspection",
-          "description": "We check belts, hoses, fluids, tires, and lights, and provide a report of your car's overall health."
+          "title": "Reset & Record",
+          "description": "We reset your oil life monitor and provide a sticker with your next service due date."
         }
       ],
       "faqs": [
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most modern cars need an oil change every 5,000 to 7,500 miles. Check your owner's manual, or bring it by and we'll let you know."
+          "answer": "Conventional oil: every 3,000-5,000 miles. Synthetic oil: every 5,000-7,500 miles. Check your owner's manual for specifics."
         },
         {
           "question": "Do you use synthetic oil?",
-          "answer": "Yes, we offer both conventional and synthetic oil options. We'll recommend the best choice based on your vehicle and driving conditions."
+          "answer": "Yes, we offer both conventional and synthetic oil options. We recommend synthetic for newer vehicles and extreme climates."
         }
       ],
       "slug": "oil-change-routine-maintenance"
@@ -229,84 +234,89 @@
     {
       "icon": "04",
       "title": "AC & Heating System Repair",
-      "shortDescription": "Stay comfortable year-round with expert AC and heating diagnostics and repairs.",
-      "longDescription": "A malfunctioning AC or heating system can make driving miserable. Our technicians are trained to diagnose and repair all climate control issues, from refrigerant leaks to faulty compressors. We restore your system to peak performance so you stay cool in summer and warm in winter.",
+      "shortDescription": "Stay comfortable year-round with expert AC and heating diagnostics and repair.",
+      "longDescription": "A malfunctioning HVAC system can make driving miserable. Our technicians are trained to diagnose and repair air conditioning and heating issues, from refrigerant leaks to blower motor failures. We restore your cabin comfort quickly and reliably.",
       "benefits": [
-        "Fast, accurate diagnosis of AC and heating problems",
-        "Complete system service including recharge and leak repair",
-        "Comfort you can count on in any weather"
+        "Comfortable cabin temperature year-round",
+        "Proper defrosting for safety",
+        "Improved air quality with cabin filter replacement",
+        "Efficient system operation saves fuel"
       ],
       "process": [
         {
-          "title": "Step 1: System Inspection",
-          "description": "We check refrigerant levels, compressor function, and airflow to identify the issue."
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor operation, hoses, and electrical components."
         },
         {
-          "title": "Step 2: Leak Detection & Repair",
-          "description": "Using UV dye and electronic detectors, we find and fix any leaks in the system."
+          "title": "Leak Detection",
+          "description": "Using UV dye and electronic detectors, we find and repair refrigerant leaks."
         },
         {
-          "title": "Step 3: Recharge & Test",
-          "description": "We recharge refrigerant to factory specs and test the system to ensure it's blowing cold (or hot) as expected."
+          "title": "Service & Recharge",
+          "description": "We repair or replace faulty parts, evacuate and recharge the system to manufacturer specs."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "The most common cause is low refrigerant due to a leak. Our diagnostic service will pinpoint the leak and repair it before recharging."
+          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose and fix it."
         },
         {
-          "question": "How much does an AC repair cost?",
-          "answer": "Costs vary depending on the issue. Simple recharges start around $150, while compressor replacements can be more. We always provide an estimate upfront."
+          "question": "How often should I service my AC?",
+          "answer": "We recommend an AC check every two years or if you notice reduced cooling performance."
         }
       ],
       "slug": "ac-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Your Neighborhood Auto Repair Experts",
-    "mission": "At King Auto Repair, our mission is to provide honest, high-quality auto repair services that keep Dallas drivers safe and mobile. We believe in transparency, fairness, and building lasting relationships with our customers.",
+    "headline": "Dallas's Trusted Auto Repair Shop Since 2009",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road. We believe in transparency, craftsmanship, and treating every customer like family.",
     "story": [
-      "King Auto Repair was founded in 2010 with a simple vision: create an auto shop where customers are treated like family. Owner Marcus King, a master ASE-certified technician, wanted to bring his decades of experience to a shop that prioritized quality over profit. Starting with just two bays and a handful of loyal customers, the shop grew through word-of-mouth referrals thanks to its reputation for honest diagnostics and fair pricing.",
-      "Today, King Auto Repair operates a full-service facility on Buckner Boulevard, serving drivers across Dallas, Mesquite, and Garland. Our team of certified technicians continues Marcus's legacy of integrity, using the latest tools and techniques to keep your car running at its best. We're proud to be a trusted part of the community."
+      "King Auto Repair was founded in 2009 by master mechanic John King with a simple vision: create an auto shop where customers receive fair prices and expert work without the hassle. Starting with just two bays in a small Dallas garage, John's commitment to integrity and quality quickly earned a loyal following. Word spread, and the shop expanded to serve drivers across the city.",
+      "Today, King Auto Repair operates a state-of-the-art facility with five bays and a team of ASE-certified technicians. We continue to invest in the latest diagnostic tools and training to service all makes and models. Despite our growth, we maintain the same customer-first values that started it all: honesty, quality, and respect."
     ],
     "highlight": {
-      "stat": "14+",
-      "label": "Years of Service"
+      "stat": "15+",
+      "label": "Years of Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs—and what it doesn't. No upselling, no shortcuts."
+        "description": "We never recommend unnecessary repairs. Our transparent pricing and detailed explanations build lasting trust."
       },
       {
-        "title": "Quality",
-        "description": "We use premium parts and follow manufacturer specifications to ensure lasting repairs."
+        "title": "Excellence",
+        "description": "Every repair is performed to the highest standard using quality parts and proven techniques."
       },
       {
         "title": "Community",
-        "description": "We're proud to serve our neighbors and support local causes whenever we can."
+        "description": "We support local events and charities because Dallas is our home too."
       },
       {
         "title": "Continuous Improvement",
-        "description": "Our technicians regularly train on new technologies to stay ahead of the curve."
+        "description": "We regularly train our team and update equipment to stay ahead of automotive technology."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with King Auto Repair",
-    "subheadline": "Ready to schedule service or have a question? We're here to help. Call, visit, or fill out the form below.",
+    "subheadline": "Ready to book your service or have a question? Call us or fill out the form below.",
     "primaryCta": "Call (214) 660-1144",
     "formCta": "Send Message",
     "serviceAreas": [
-      "Dallas, TX",
-      "Mesquite, TX",
-      "Garland, TX",
-      "Balch Springs, TX"
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Preston Hollow",
+      "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": 4.1,
+    "rating": "",
     "reviews": null
   },
   "meta": {
